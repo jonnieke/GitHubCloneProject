@@ -1,1 +1,2 @@
-This is the description of my repo
+merging branches and resolving conflicts
+ Modification in feature-greeting branch.
